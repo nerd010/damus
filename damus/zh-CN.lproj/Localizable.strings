@@ -5,13 +5,13 @@
 "'%@' at '%@' will be used for verification" = "'%@' at '%@' 将被用于认证";
 
 /* Description of why the nip05 identifier is invalid. */
-"'%@' is an invalid NIP-05 identifier. It should look like an email." = "输入的内容 '%@' 是无效NIP-05标识符。有效输入应当为email格式。";
+"'%@' is an invalid NIP-05 identifier. It should look like an email." = "输入的内容 '%@' 是无效 NIP-05 标识符。有效输入应当为 email 格式。";
 
 /* Navigation bar title for view that shows who is following a user. */
 "(Profile.displayName(profile: profile, pubkey: whos))'s Followers" = "(Profile.displayName(profile: profile, pubkey: whos))的粉丝";
 
 /* Navigation bar title for view that shows who a user is following. */
-"(who) following" = "(who)关注";
+"(who) following" = "(who) 关注";
 
 /* Prefix character to username. */
 "@" = "@";
@@ -61,7 +61,7 @@ Number of relay servers a user is connected. */
 "Accept" = "接受";
 
 /* Label to indicate the public ID of the account. */
-"Account ID" = "账号ID";
+"Account ID" = "账号 ID";
 
 /* Title for confirmation dialog to either share, report, or block a profile. */
 "Actions" = "动态";
@@ -104,7 +104,7 @@ Number of relay servers a user is connected. */
 "Bitcoin Lightning Tips" = "比特币闪电小费";
 
 /* Dropdown option label for Lightning wallet, Blixt Wallet */
-"Blixt Wallet" = "Blixt钱包";
+"Blixt Wallet" = "Blixt 钱包";
 
 /* Alert button to block a user.
    Button to block a profile.
@@ -124,7 +124,7 @@ Number of relay servers a user is connected. */
 "Blocked Users" = "拉黑用户";
 
 /* Dropdown option label for Lightning wallet, Blue Wallet. */
-"Blue Wallet" = "Blue Wallet";
+"Blue Wallet" = "Blue 钱包";
 
 /* Accessibility label for boosts button */
 "Boosts" = "加速";
@@ -166,38 +166,38 @@ Number of relay servers a user is connected. */
 "Copy" = "复制";
 
 /* Context menu option for copying the ID of the account that created the note. */
-"Copy Account ID" = "复制账户ID";
+"Copy Account ID" = "复制账户 ID";
 
 /* Context menu option to copy an image into clipboard.
    Context menu option to copy an image to clipboard. */
 "Copy Image" = "复制图片";
 
 /* Context menu option to copy the URL of an image into clipboard. */
-"Copy Image URL" = "复制图片URL地址";
+"Copy Image URL" = "复制图片 URL 地址";
 
 /* Title of section for copying a Lightning invoice identifier. */
 "Copy invoice" = "复制发票";
 
 /* Context menu option for copying a user's Lightning URL. */
-"Copy LNURL" = "复制LNURL";
+"Copy LNURL" = "复制 LNURL";
 
 /* Context menu option for copying the ID of the note. */
-"Copy Note ID" = "复制此条推文ID";
+"Copy Note ID" = "复制此条推文 ID";
 
 /* Context menu option for copying the JSON text from the note. */
-"Copy Note JSON" = "复制此条推文JSON";
+"Copy Note JSON" = "复制此条推文 JSON";
 
 /* Button to copy report ID. */
-"Copy Report ID" = "复制举报记录ID";
+"Copy Report ID" = "复制举报记录 ID";
 
 /* Context menu option for copying the text from an note. */
 "Copy Text" = "复制文本";
 
 /* Context menu option for copying the ID of the user who created the note. */
-"Copy User Pubkey" = "复制用户公钥Pubkey";
+"Copy User Pubkey" = "复制用户公钥 Pubkey";
 
 /* Alert message to indicate that the blocked user could not be found. */
-"Could not find user to block..." = "找不到可拉黑用户";
+"Could not find user to block..." = "找不到可拉黑用户……";
 
 /* Button to create account. */
 "Create" = "创建";
@@ -274,7 +274,7 @@ Number of relay servers a user is connected. */
 "Follow" = "关注";
 
 /* Text on QR code view to prompt viewer looking at screen to follow the user. */
-"Follow me on nostr" = "关注我的Nostr";
+"Follow me on nostr" = "关注我的 Nostr";
 
 /* Label describing followers of a user. */
 "Followers" = "粉丝";
@@ -284,7 +284,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Following" = "已关注";
 
 /* Label to indicate that the user is in the process of following another user. */
-"Following..." = "关注中...";
+"Following..." = "关注中……";
 
 /* Text to indicate that button next to it is in a state that will follow a profile when tapped. */
 "Follows" = "关注";
@@ -293,7 +293,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Free" = "免费";
 
 /* Button to navigate to DeepL website to get a translation API key. */
-"Get API Key" = "获取API Key";
+"Get API Key" = "获取 API Key";
 
 /* Navigation bar title for Global view where posts from all connected relay servers appear. */
 "Global" = "广场";
@@ -309,7 +309,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 
 /* Button to hide the DeepL translation API key.
    Button to hide the LibreTranslate server API key. */
-"Hide API Key" = "隐藏API Key";
+"Hide API Key" = "隐藏 API Key";
 
 /* Navigation bar title for Home view where posts and replies appear from those who the user is following. */
 "Home" = "主页";
@@ -324,7 +324,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Illegal content" = "违规内容";
 
 /* Error message indicating that an invalid account key was entered for login. */
-"Invalid key" = "无效的key";
+"Invalid key" = "无效的 key";
 
 /* Button for user to report that the account or content has spam. */
 "It's spam" = "这是垃圾信息";
@@ -339,10 +339,10 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Let's go!" = "开启旅程！";
 
 /* Dropdown option for selecting LibreTranslate as the translation service. */
-"LibreTranslate (Open Source)" = "LibreTranslate (开源)";
+"LibreTranslate (Open Source)" = "LibreTranslate（开源）";
 
 /* Placeholder text for entry of Lightning Address or LNURL. */
-"Lightning Address or LNURL" = "闪电地址或LNURL";
+"Lightning Address or LNURL" = "闪电地址或 LNURL";
 
 /* Indicates that the view is for paying a Lightning invoice. */
 "Lightning Invoice" = "闪电发票";
@@ -375,7 +375,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Muun" = "Muun";
 
 /* Label for NIP-05 Verification section of user profile form. */
-"NIP-05 Verification" = "NIP-05认证";
+"NIP-05 Verification" = "NIP-05 认证";
 
 /* Button to cancel out of posting a note after being alerted that it looks like they might be posting a private key. */
 "No" = "否";
@@ -450,16 +450,16 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Profile Picture" = "头像";
 
 /* Section title for the user's public account ID. */
-"Public Account ID" = "公开账号ID";
+"Public Account ID" = "公开账号 ID";
 
 /* Label indicating that the text is a user's public account key. */
-"Public key" = "公钥Public Key";
+"Public key" = "公钥 Public Key";
 
 /* Label indicating that the text is a user's public account key. */
-"Public Key" = "公钥Public Key";
+"Public Key" = "公钥 Public Key";
 
 /* Prompt to ask user if the key they entered is a public key. */
-"Public Key?" = "输入的是公钥Public Key吗？";
+"Public Key?" = "输入的是公钥 Public Key 吗？";
 
 /* Navigation bar title for Reactions view. */
 "Reactions" = "回应";
@@ -544,7 +544,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Search hashtag: #%@" = "热搜词：#%@";
 
 /* Placeholder text to prompt entry of search query. */
-"Search..." = "搜索...";
+"Search..." = "搜索……";
 
 /* Section title for user's secret account login key. */
 "Secret Account Login Key" = "账户私钥";
@@ -556,7 +556,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Select default wallet" = "选择默认钱包";
 
 /* Text prompt for user to send a message to the other user. */
-"Send a message to start the conversation..." = "发送信息来开启聊天吧...";
+"Send a message to start the conversation..." = "发送信息来开启聊天吧……";
 
 /* Prompt selection of LibreTranslate server to perform machine translations on notes */
 "Server" = "服务器";
@@ -579,7 +579,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 
 /* Button to show the DeepL translation API key.
    Button to show the LibreTranslate server API key. */
-"Show API Key" = "显示API Key";
+"Show API Key" = "显示 API Key";
 
 /* Toggle to show or hide selection of wallet. */
 "Show wallet selector" = "显示钱包选择";
@@ -594,7 +594,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Strike" = "Strike";
 
 /* Label to display relay's supported NIPs. */
-"Supported NIPs" = "支持的NIP";
+"Supported NIPs" = "支持的 NIP";
 
 /* Button to close out of alert that informs that the action to block a user was successful. */
 "Thanks!" = "谢谢！";
@@ -606,10 +606,10 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "This is a public key, you will not be able to make posts or interact in any way. This is used for viewing accounts from their perspective." = "这是一个公钥。您无法使用公钥发布推文或进行其他交互。您只可以从该用户视角查看此账户。";
 
 /* Warning that the inputted account key for login is an old-style and asking user to verify if it is a public key. */
-"This is an old-style nostr key. We're not sure if it's a pubkey or private key. Please toggle the button below if this a public key." = "这是一个老式nostr key。系统无法确定这是公钥还是私钥。如果是公钥，请点击下面的按钮切换。";
+"This is an old-style nostr key. We're not sure if it's a pubkey or private key. Please toggle the button below if this a public key." = "这是一个老式 nostr key。系统无法确定这是公钥还是私钥。如果是公钥，请点击下面的按钮切换。";
 
 /* Label to describe that a public key is the user's account ID and what they can do with it. */
-"This is your account ID, you can give this to your friends so that they can follow you. Click to copy." = "这是您的账号ID。您可以把账号ID分享给朋友来邀请他们关注您。点击复制";
+"This is your account ID, you can give this to your friends so that they can follow you. Click to copy." = "这是您的账号 ID。您可以把账号 ID 分享给朋友来邀请他们关注您。点击复制";
 
 /* Label to describe that a private key is the user's secret account key and what they should do with it. */
 "This is your secret account key. You need this to access your account. Don't share this with anyone! Save it in a password manager and keep it safe!" = "这是您的秘密私钥。您需要用这个私钥来访问您的账户。您可以用密码管理器或者其他安全的方式保管您的私钥。切记不要把私钥透露给任何人！";
@@ -625,7 +625,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Translated from (lang)" = "翻译自 (lang)";
 
 /* Button to indicate that the note is in the process of being translated from a different language. */
-"Translating from (lang)..." = "正在从(lang)翻译...";
+"Translating from (lang)..." = "正在从 (lang) 翻译...";
 
 /* Section title for selecting the translation service. */
 "Translations" = "翻译";
@@ -634,7 +634,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Type DELETE to delete" = "输入 DELETE 以删除";
 
 /* Text box prompt to ask user to type their post. */
-"Type your post here..." = "说点什么呢...";
+"Type your post here..." = "说点什么呢……";
 
 /* Non-breaking space character to fill in blank space next to event action button icons. */
 "u{00A0}" = "u{00A0}";
@@ -646,7 +646,7 @@ Part of a larger sentence to describe how many profiles a user is following. */
 "Unfollowing" = "取消关注";
 
 /* Label to indicate that the user is in the process of unfollowing another user. */
-"Unfollowing..." = "取消关注...";
+"Unfollowing..." = "取消关注……";
 
 /* Text to indicate that the button next to it is in a state that will unfollow a profile when tapped. */
 "Unfollows" = "取消关注";
